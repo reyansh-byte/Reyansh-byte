@@ -9,7 +9,8 @@
 📱 **Flutter & Android Developer** | 🚀 **Crafting beautiful mobile experiences** | 🌐 **Full-stack problem solver**
 
 ## 💫 About Me
-<img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
 - 📱 **Flutter & Android specialist** building **cross-platform mobile apps**
 - 🔭 Currently working on **innovative Flutter applications** and **native Android projects**
@@ -53,7 +54,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/reyansh2k04](https://www.linkedin.com/in/reyansh2k04/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyansh2k04/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/The_Ashen_01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawantreyansh2004@gmail.com)
 
