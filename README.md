@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="300" height = "300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1OHdqejdzdTlwOHA2dnM1dnRkdXl6OHM5a3o5MHdldmx3M3U0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="coding"/>
+<img align="right" width="300" height = "250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1OHdqejdzdTlwOHA2dnM1dnRkdXl6OHM5a3o5MHdldmx3M3U0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" alt="coding"/>
 
 - 📱 **Flutter & Android specialist** building **cross-platform mobile apps**
 - 🔭 Currently working on **innovative Flutter applications** and **native Android projects**
